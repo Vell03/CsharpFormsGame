@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject.csproj", "{B91DDBC7-ABDC-4DD2-9B3D-5266FE969E10}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{68E2E1CB-0DF1-4DE7-9701-5F78087355F1}"
+	ProjectSection(SolutionItems) = preProject
+		GameUnits.cs = GameUnits.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B91DDBC7-ABDC-4DD2-9B3D-5266FE969E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91DDBC7-ABDC-4DD2-9B3D-5266FE969E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91DDBC7-ABDC-4DD2-9B3D-5266FE969E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91DDBC7-ABDC-4DD2-9B3D-5266FE969E10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {687FA3CE-3753-4963-9A83-09131E518C7F}
+	EndGlobalSection
+EndGlobal
